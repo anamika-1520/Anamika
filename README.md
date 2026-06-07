@@ -114,8 +114,12 @@
 🎓 M.Sc. Mathematics & Computing @ IIT (ISM) Dhanbad
 
 ---
+## 📫 Reach Me At
 
-## 📈 GitHub Stats
+📧 **Email:** 24ms0010@gmail.com
 
-```txt
-(Add GitHub Stats Cards Here)
+💼 **LinkedIn:** https://www.linkedin.com/in/anamika-saxena-a2a660306/
+
+💻 **GitHub:** https://github.com/anamika-1520
+
+🚀 **Interested In:** AI Engineering | Machine Learning | Generative AI | Data Science
